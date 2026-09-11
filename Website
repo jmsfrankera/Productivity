@@ -6,3 +6,9 @@
     name="viewport"
     content="width=device-width, initial-scale=1.0"/>
   <title>I LOVE YOU BABY</title>
+  <link rel="stylesheet" href="./styles.css"/>
+</head>
+<body>
+<h1> I LOVE YOU BABY </h1>
+</body>
+</html>
